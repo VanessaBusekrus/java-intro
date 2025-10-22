@@ -4,7 +4,7 @@ This repository contains small Java example programs used for learning and pract
 
 ## Repository structure
 
-- `CodeWithMosh/` - Examples and exercises from the "Java Programming Masterclass" (compiled `.class` files may be present).
+- `CodeWithMosh/` - Examples and exercises from the "Java Programming Masterclass".
 - `FizzBuzz/` - A simple FizzBuzz example (`Main.java`).
 - `HelloWorld/` - A basic "Hello, World!" example (`Main.java`).
 - `MortgageCalculator/` - A small mortgage calculator example (`Main.java`).
