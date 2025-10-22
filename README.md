@@ -9,8 +9,6 @@ This repository contains small Java example programs used for learning and pract
 - `HelloWorld/` - A basic "Hello, World!" example (`Main.java`).
 - `MortgageCalculator/` - A small mortgage calculator example (`Main.java`).
 
-> Note: Some directories may contain `.class` files (compiled bytecode). Source `.java` files are the authoritative source; recompile if needed.
-
 ## Requirements
 
 - Java JDK 8 or newer installed (OpenJDK or Oracle JDK).

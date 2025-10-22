@@ -1,0 +1,43 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Gradle files
+.gradle/
+build/
+
+# Maven
+target/
+
+# Output directories
+out/
+
+# Eclipse
+.settings/
+*.classpath
+*.project
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.swp
+
+# If you accidentally committed compiled files before, you may need to remove them from the index:
+# git rm --cached -r .
+# then commit the .gitignore
